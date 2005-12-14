@@ -1,6 +1,6 @@
 " Vim color file
 " Maintainer:   Zhang Jing
-" Last Change:  %[% 2005年12月07日 星期三 10时41分49秒 %]%
+" Last Change:  %[% 2005年12月15日 星期四 15时40分34秒 %]%
 
 set background=dark
 if version > 580
@@ -41,5 +41,5 @@ hi Type		    guifg=#655723
 hi Special	    guifg=#c9b37e
 hi Ignore 	    guifg=grey40
 hi Error        guifg=white     guibg=#b03030
-hi Todo		    guifg=#6b2c13   guibg=#b3ac34
+hi Todo		    guifg=#802c13   guibg=#c3bc44   gui=bold
 "vim:ts=4:tw=4
